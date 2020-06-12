@@ -1,6 +1,6 @@
 //Programmer: Zinnia Khan
 //Date: December 4, 2019
-//Purpose: Project 5 - Class member function definitions of EventClass
+//Purpose: Class member function definitions of EventClass
 
 #include "EventClass.h"
 
