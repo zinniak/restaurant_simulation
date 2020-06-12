@@ -1,4 +1,3 @@
-# restuarant_simulation
-Restaurant Simulation Program
+# Restaurant Simulation Program
 
 An event driven restuarant simulation program.
