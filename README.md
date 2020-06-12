@@ -1,3 +1,3 @@
 # Restaurant Simulation Program
 
-An event driven restuarant simulation program.
+An event driven restaurant simulation program.
